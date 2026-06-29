@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2n0023/WYG/v1/juan/3
+seq: 3
+front:
+  text: 蘭亭續考前一卷其間有松所藏本與他人所藏者合為一卷後一卷皆松所藏嘗經秀巗李先生品題命工鋟板以貽同志淳祐甲辰中秋日書於景歐堂
+  hash: sha256:965bb85bc73d8c682abb956bdec78bc03c91cc6e8df2b7ed954543d73f083610
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2n0023_WYG_003-1a, image: WYG0682/WYG0682-0179a.png}
+body:
+  text: 正徳間吳人栁大中僉嘗藏書萬卷特以抄本鬻於嗜古者此冊亦出諸栁氏云係宋刻大字本搨之又有桑澤卿蘭亭考十二卷藏於家今大中亡矣所藏皆散去余偶得之華少岳忽病痁不能執筆乃命兒子手搨以供老境清玩復綴數語末簡云嘉靖乙夘杪秋卄二日勾吳苶夣散人姚咨時年六十有一蘭亭續考䟦
+  hash: sha256:7e454c69131d4c5dc2c3b731c42b720db8b58d917dba3f2b3d9ab9ce62b4d933
+metadata:
+  title: 蘭亭續考
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:54:35.760137'
+  juan_title: 跋
+  source:
+    repository: kanripo
+    path: KR2n0023/KR2n0023_003.txt
+hash: sha256:57ea5b71101e15d737ac07e2a4af7fa0f4899bf5ed5c05ad1306ab88a525e292
