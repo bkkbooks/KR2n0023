@@ -6,8 +6,8 @@ front:
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2n0023_WYG_003-1a, image: WYG0682/WYG0682-0179a.png}
 body:
-  text: 正徳間吳人栁大中僉嘗藏書萬卷特以抄本鬻於嗜古者此冊亦出諸栁氏云係宋刻大字本搨之又有桑澤卿蘭亭考十二卷藏於家今大中亡矣所藏皆散去余偶得之華少岳忽病痁不能執筆乃命兒子手搨以供老境清玩復綴數語末簡云嘉靖乙夘杪秋卄二日勾吳苶夣散人姚咨時年六十有一蘭亭續考䟦
-  hash: sha256:7e454c69131d4c5dc2c3b731c42b720db8b58d917dba3f2b3d9ab9ce62b4d933
+  text: 正德間吳人栁大中僉嘗藏書萬卷特以抄本鬻於嗜古者此册亦出諸栁氏云係宋刻大字本拓之又有桑澤卿蘭亭考十二卷藏於家今大中亡矣所藏皆散去余偶得之華少嶽忽病痁不能執筆乃命兒子手拓以供老境清玩復綴數語末簡云嘉靖乙卯杪秋草二日勾吳苶夢散人姚咨時年六十有一蘭亭續考跋
+  hash: sha256:fa0bedfca21a7359dca150471c9561f80bc3c48f07a86b1e10d1d60508f9d29f
 metadata:
   title: 蘭亭續考
   edition:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2n0023/KR2n0023_003.txt
-hash: sha256:7a7c1661189b0f78f165b81c14da5c9bf13e8483c00e29547ae86c6885e45d3a
+hash: sha256:ee20fd870c435b267d76a24225adb8cb079a04bf07746d1f001b5d7c73dfb8d3
